@@ -11,8 +11,7 @@ Questa lista raccoglie un numero di domande che possono essere usate per valutar
 Molte delle domande sono a risposta aperta ed alcune non hanno una risposta corretto o sbagliata. Al contrario, esse intendono essere un punto di partenza per una conversazione che possa, meglio di domande complesse, far conoscere le capacità di un candidato.
 Personalmente, sceglierei anche domande che non sono chiare nemmeno a me.
 
-Ritengo inoltre che fare solo domande può essere insufficiente. L'intervista dovrebbe chiudersi con una lunga sessione di "programmazione affiancata".
-Again, I stress that just asking questions is hardly sufficient. Complete the interview with a long pair programming session with your candidates: it is one of the best opportunities to know each others' style and approach and to let candidates know some details about their future day job.
+Ritengo inoltre che fare solo domande può essere insufficiente. L'intervista dovrebbe chiudersi con una lunga sessione di "programmazione affiancata": è la migliore opportunità per conoscersi a vicenda, capire l'approccio del candidato e dargli un idea del suo futuro lavoro.
 
 Il progetto originario è stato a sua volta espressamente ispirato da [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by [@darcyclarke](https://github.com/darcyclarke)
 
