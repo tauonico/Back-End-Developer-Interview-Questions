@@ -1,7 +1,7 @@
 Back-End Developer Interview Questions
 ======================================
 
-Questa pagina è una libera traduzione in italiano di [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions).
+Questa pagina è una libera traduzione in italiano di [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) di [@arialdomartini](https://github.com/arialdomartini).
 
 Ho iniziato a scrivere questa lista come promemoria personale di argomenti di cui ho avuto la possibilità di discutere con colleghi ed amici e che avrei voluto approfondire.
 
