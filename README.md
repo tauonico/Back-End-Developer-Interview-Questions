@@ -1,20 +1,20 @@
 Back-End Developer Interview Questions
 ======================================
 
-This page has been translated to [Chinese](https://github.com/monklof/Back-End-Developer-Interview-Questions) by [monklof](https://github.com/monklof).
+Questa pagina è una libera traduzione in italiano di [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions).
 
-I started writing down this list as a personal reminder of topics I had the chance to discuss with colleagues and friends, and that I wanted to deepen...
+Ho iniziato a scrivere questa lista come promemoria personale di argomenti di cui ho avuto la possibilità di discutere con colleghi ed amici e che avrei voluto approfondire.
 
-I'm not a big fan of asking technical questions in job interviews: I rather prefer to sit together with candidates in front of some real code, hands on the keyboard, facing a real problem, and have a full day of pair programming, hopefully rotating with all the other team members. Yet, I feel some technical questions could be a good starting point to begin an engaging and nice conversation, and this can be useful to get a deeper knowledge of each others.
-
-This repo collects a number of back end related questions that can be used when vetting potential candidates. It is by no means recommended to use every single question on the same candidate: that would take hours, and would have no sense at all, as they cover a too broad set of topics for a single developer's to possibly know. Browse the section you find more relevant for your context, and pick the questions that give you more ideas on the conversation to have.
+Questa lista raccoglie un numero di domande che possono essere usate per valutare un potenziale candidato. Non ha senso chiedere domandarle tutte, ci vorrebbero ore e gli argomenti sono così vasti che nessuno sviluppatore può conoscerli tutti. Basta sceglierne qualcuna dal contesto più pertinente.
 
 ### Notice
-Most of the questions are open-ended, and some of them just don't have a *right* or a *wrong* answer. On the contrary, they are intended to be used as the starting point for a conversation that hopefully tells you more about the person's capabilities than a straight answer would. Personally, I would even choose the questions whose answers are not yet clear to me.
+Molte delle domande sono a risposta aperta ed alcune non hanno una risposta corretto o sbagliata. Al contrario, esse intendono essere un punto di partenza per una conversazione che possa, meglio di domande complesse, far conoscere le capacità di un candidato.
+Personalmente, sceglierei anche domande che non sono chiare nemmeno a me.
 
+Ritengo inoltre che fare solo domande può essere insufficiente. L'intervista dovrebbe chiudersi con una lunga sessione di "programmazione affiancata".
 Again, I stress that just asking questions is hardly sufficient. Complete the interview with a long pair programming session with your candidates: it is one of the best opportunities to know each others' style and approach and to let candidates know some details about their future day job.
 
-This project is admittedly inspired by [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by [@darcyclarke](https://github.com/darcyclarke)
+Il progetto originario è stato a sua volta espressamente ispirato da [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by [@darcyclarke](https://github.com/darcyclarke)
 
 
 
